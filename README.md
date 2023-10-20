@@ -1,6 +1,6 @@
 # Djordje P. Mihajlovic @ GitHub
 
-Currently a final year, masters physics student at the University of Edinburgh.
+Currently a final year, masters of physics student at the University of Edinburgh.
 Interested in mathematical and computational techniques used to solve problems motivated by scientific theory.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
