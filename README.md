@@ -5,5 +5,5 @@ Interested in mathematical and computational techniques used to solve problems m
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Current areas of focus are computational condensed matter physics, specifically applying machine learning methods to learn more about physical systems (request access to my knot_id repository for my masters project on identifying knot invariants via ML).
+Current areas of focus are computational condensed matter physics, specifically applying machine learning methods to learn more about physical systems (request access to my PyKnot repository for my masters project on identifying knot invariants via ML).
 
