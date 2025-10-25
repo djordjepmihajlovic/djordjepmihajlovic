@@ -6,5 +6,4 @@ Interested in mathematical, computational and physics inspired techniques used t
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Current areas of focus are computational mathematics, specifically applying machine learning methods to learn more about the interplay between geometry and topology (see my PyKnot repository for work on identifying knot invariants via ML).
-
+Areas of focus are computational mathematics, specifically applying machine learning methods to learn more about the interplay between geometry and topology (see my PyKnot repository for work on identifying knot invariants via ML).
